@@ -130,7 +130,7 @@ nav#menu a:hover{color:var(--on-ink);text-decoration:none;background:#1a2741}
 .qa div{display:grid;grid-template-columns:80px 1fr;gap:12px;padding:12px 0;border-top:1px solid var(--line)}
 .qa dt{font-size:13px;color:var(--cobalt);letter-spacing:.12em;padding-top:2px}
 .qa dd{margin:0;font-size:15px;color:#2a3242}
-.f-side{background:var(--ink);color:var(--on-ink);padding:36px 32px;display:flex;flex-direction:column;justify-content:space-between}
+.f-side{background:var(--ink);color:var(--on-ink);padding:36px 32px;display:flex;flex-direction:column;justify-content:flex-start}
 .bars-h{font-size:12px;letter-spacing:.2em;color:var(--on-ink-muted);margin-bottom:16px}
 .bar{margin:12px 0}
 .bar span{font-size:13px;color:#d7deeb}
